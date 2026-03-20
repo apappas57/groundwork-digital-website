@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+    <defs>
+          <linearGradient id="tealGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
+                  <stop offset="0%" style="stop-color:#1ABC9C;stop-opacity:1" />
+                  <stop offset="100%" style="stop-color:#2ECC71;stop-opacity:1" />
+          </linearGradient>
+    </defs>
+    <rect width="400" height="400" rx="48" fill="#0A0F1C"/>
+    <rect x="160" y="80" width="80" height="80" rx="4" fill="url(#tealGrad2)"/>
+    <rect x="110" y="176" width="180" height="60" rx="4" fill="url(#tealGrad2)" opacity="0.85"/>
+    <rect x="60" y="252" width="280" height="68" rx="4" fill="url(#tealGrad2)"/>
+    <line x1="40" y1="336" x2="360" y2="336" stroke="url(#tealGrad2)" stroke-width="3" opacity="0.4" stroke-dasharray="8,6"/>
+    <line x1="60" y1="336" x2="48" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="90" y1="336" x2="78" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="120" y1="336" x2="108" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="150" y1="336" x2="138" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="180" y1="336" x2="168" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="210" y1="336" x2="198" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="240" y1="336" x2="228" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="270" y1="336" x2="258" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="300" y1="336" x2="288" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="330" y1="336" x2="318" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <line x1="360" y1="336" x2="348" y2="352" stroke="url(#tealGrad2)" stroke-width="1.5" opacity="0.25"/>
+    <circle cx="200" cy="120" r="3" fill="#0A0F1C" opacity="0.5"/>
+    <circle cx="200" cy="206" r="3" fill="#0A0F1C" opacity="0.4"/>
+    <circle cx="160" cy="206" r="3" fill="#0A0F1C" opacity="0.4"/>
+    <circle cx="240" cy="206" r="3" fill="#0A0F1C" opacity="0.4"/>
+    <circle cx="200" cy="286" r="3" fill="#0A0F1C" opacity="0.3"/>
+    <circle cx="140" cy="286" r="3" fill="#0A0F1C" opacity="0.3"/>
+    <circle cx="260" cy="286" r="3" fill="#0A0F1C" opacity="0.3"/>
+</svg>
