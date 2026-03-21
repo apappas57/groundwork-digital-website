@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<defs>
+  <linearGradient id="tg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2ECC71"/>
+    <stop offset="100%" stop-color="#1ABC9C"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="1000" fill="#0A0F1C"/>
+<g fill="url(#tg)" opacity="0.59">
+  <polygon points="705,244 729,231 729,305 705,318"/>
+  <polygon points="345,334 369,321 369,395 345,408"/>
+  <polygon points="345,424 369,411 369,485 345,498"/>
+  <polygon points="345,514 369,501 369,575 345,588"/>
+  <polygon points="705,514 729,501 729,575 705,588"/>
+  <polygon points="345,604 369,591 369,665 345,678"/>
+  <polygon points="705,604 729,591 729,665 705,678"/>
+  <polygon points="705,694 729,681 729,755 705,768"/>
+</g>
+<g fill="url(#tg)" opacity="0.82">
+  <polygon points="271,244 295,231 369,231 345,244"/>
+  <polygon points="361,244 385,231 459,231 435,244"/>
+  <polygon points="451,244 475,231 549,231 525,244"/>
+  <polygon points="541,244 565,231 639,231 615,244"/>
+  <polygon points="631,244 655,231 729,231 705,244"/>
+  <polygon points="451,514 475,501 549,501 525,514"/>
+  <polygon points="541,514 565,501 639,501 615,514"/>
+  <polygon points="631,514 655,501 729,501 705,514"/>
+  <polygon points="361,694 385,681 459,681 435,694"/>
+  <polygon points="451,694 475,681 549,681 525,694"/>
+  <polygon points="541,694 565,681 639,681 615,694"/>
+</g>
+<g fill="url(#tg)">
+  <rect x="271" y="244" width="74" height="74"/>
+  <rect x="361" y="244" width="74" height="74"/>
+  <rect x="451" y="244" width="74" height="74"/>
+  <rect x="541" y="244" width="74" height="74"/>
+  <rect x="631" y="244" width="74" height="74"/>
+  <rect x="271" y="334" width="74" height="74"/>
+  <rect x="271" y="424" width="74" height="74"/>
+  <rect x="271" y="514" width="74" height="74"/>
+  <rect x="451" y="514" width="74" height="74"/>
+  <rect x="541" y="514" width="74" height="74"/>
+  <rect x="631" y="514" width="74" height="74"/>
+  <rect x="271" y="604" width="74" height="74"/>
+  <rect x="631" y="604" width="74" height="74"/>
+  <rect x="271" y="694" width="74" height="74"/>
+  <rect x="361" y="694" width="74" height="74"/>
+  <rect x="451" y="694" width="74" height="74"/>
+  <rect x="541" y="694" width="74" height="74"/>
+  <rect x="631" y="694" width="74" height="74"/>
+</g>
+</svg>

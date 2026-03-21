@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive / Private
+Invoices/
+*.docx
+*.xlsx
+*.csv
+Groundwork_Digital_-_Adam_Whitlock_Retainer_Agreement.docx
+
+# Build / Dependencies
+node_modules/
+.next/
+client-template/
+
+# Session / Working files
+Session_Notes_*.md
+*.rtf
+
+# Skills / Local config
+skills/
+proposals/
